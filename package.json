@@ -1,0 +1,21 @@
+{
+  "name": "@omet/codemirror",
+  "version": "0.9",
+  "description": "CodeMirror for OMET",
+
+  "directories": {
+    "demo": "demo",
+    "doc": "doc",
+    "keymap": "keymap",
+    "lib": "lib",
+    "test": "test",
+    "theme": "theme"
+    	
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marijn Haverbeke",
+  "license": "see LICENSE file"
+}
